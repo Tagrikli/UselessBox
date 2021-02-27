@@ -1,0 +1,7 @@
+{
+    "programmer": "ArduinoISP",
+    "port": "/dev/ttyUSB0",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "sketch": "main.ino"
+}
