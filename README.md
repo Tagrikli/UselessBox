@@ -9,3 +9,6 @@ This script records the mouse movements of the user and exports as degree values
 Arduino code for the useless box. Pre-defined movements embedded in the code.
 
 
+
+## Sample Image
+![](image.jpeg)
